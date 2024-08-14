@@ -1,5 +1,5 @@
 # HR_Analysis_Using_PowerBI
-
+HR analysis in Power BI leverages interactive dashboards and advanced visuals to track employee metrics like turnover, performance, and demographics. It uses features like DAX and Power Query to uncover trends and insights for data-driven HR decisions.
 Power BI dashboard Develop.
 Step 1
 Dashboard setup
